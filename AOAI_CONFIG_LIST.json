@@ -1,0 +1,24 @@
+[
+    {
+        "model": "GPT35TUEBOFIRST",
+        "api_key": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+        "base_url": "https://XXXXXXXX.openai.azure.com/",
+        "api_type": "azure",
+        "api_version": "2024-02-15-preview"
+    },
+    {
+        "model": "Your Azure OpenAI Service Deployment Model Name",
+        "api_key": "Your Azure OpenAI Service API Key",
+        "base_url": "Your Azure OpenAI Service Endpoin",
+        "api_type": "azure",
+        "api_version": "Your Azure OpenAI Service version, eg 2023-12-01-preview"
+    },
+    {
+        "model": "Your Azure OpenAI Service Deployment Model Name",
+        "api_key": "Your Azure OpenAI Service API Key",
+        "base_url": "Your Azure OpenAI Service Endpoin",
+        "api_type": "azure",
+        "api_version": "Your Azure OpenAI Service version, eg 2023-12-01-preview"
+    }
+]
+
