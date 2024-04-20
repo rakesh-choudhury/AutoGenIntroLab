@@ -1,8 +1,8 @@
 [
     {
-        "model": "GPT35TUEBOFIRST",
-        "api_key": "XXXXXXXXXXXXXXXXXXXXXXXXX",
-        "base_url": "https://XXXXXXXX.openai.azure.com/",
+        "model": "gpt-35-turbo",
+        "api_key": "PAID_KEY",
+        "base_url": "https://bosaz-gab-aoai.openai.azure.com/",
         "api_type": "azure",
         "api_version": "2024-02-15-preview"
     },
